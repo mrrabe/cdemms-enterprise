@@ -1,0 +1,6 @@
+{
+  "name":"cdemms/enterprise",
+  "description":"CDEMMS Enterprise",
+  "type":"project",
+  "autoload":{"psr-4":{"App\\":"app/"}}
+}
